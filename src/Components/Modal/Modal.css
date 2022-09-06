@@ -1,0 +1,7 @@
+.Modal {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.Modal::-webkit-scrollbar {
+    display: none;
+}
